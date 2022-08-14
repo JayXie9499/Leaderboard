@@ -2,7 +2,7 @@
   "name": "@jayxie9499/leaderboard",
   "author": "JayXie",
   "license": "CC-BY-NC-4.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A leaderboard generator for Oyster leveling system.",
   "main": "index.js",
   "scripts": {
