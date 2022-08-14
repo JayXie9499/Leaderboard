@@ -9,6 +9,10 @@
     "build": "tsc index.ts --declaration",
     "publish": "pnpm build && pnpm publish --access=public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayXie9499/Leaderboard"
+  },
   "dependencies": {
     "@napi-rs/canvas": "^0.1.27"
   },
